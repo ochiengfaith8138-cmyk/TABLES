@@ -1,0 +1,24 @@
+h1{
+    background-color:orangered;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin: 50px;
+}
+body{
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 600px;
+}
+form{
+    background-color: rgb(14, 46, 21);
+    margin: 100px;
+    height: 600px;
+    padding: 100px 200px;
+    BORDER: 5PX SOLID BLACK;
+    width: 600px;
+
+}
+div{
+    background-color: rgb(19, 14, 46);
+    border: 5px solid black;
+}
